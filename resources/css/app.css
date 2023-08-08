@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'rabar21';
+    src: url('../../public/fonts/Rabar_021.ttf') format('truetype');
+}
